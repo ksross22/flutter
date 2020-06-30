@@ -5,7 +5,7 @@
 #   gem 'sqlite3'
 #
 
-cat config/database.yml
+#$cat config/database.yml
 # PostgreSQL. Versions 8.2 and up are supported.
 #
 # Install the pg driver:
